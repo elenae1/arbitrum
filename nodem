@@ -1,1 +1,2 @@
 packages/**/artifacts/**
+# The parent chain's RPC
